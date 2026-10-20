@@ -28,9 +28,12 @@ O projeto foi desenvolvido seguindo as melhores práticas de mercado em três et
 
 ---
 
-## 🖼️ Visualização do Dashboard
-*<img width="1132" height="616" alt="Grafico1" src="https://github.com/user-attachments/assets/1c735b91-7279-4692-90d7-fd2a26f1163b" />
-*
+## 🖼️ Visualização do Dashboard e Codigos
+<img width="1132" height="616" alt="Grafico1" src="https://github.com/user-attachments/assets/1c735b91-7279-4692-90d7-fd2a26f1163b" />
+
+<img width="1827" height="778" alt="Codigo" src="https://github.com/user-attachments/assets/4eee1db9-8b26-4c69-8dc5-e1a47e63403c" />
+
+
 
 ![Dashboard de Logística](./assets/print-dashboard.png)
 
