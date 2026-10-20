@@ -34,9 +34,6 @@ O projeto foi desenvolvido seguindo as melhores práticas de mercado em três et
 <img width="1827" height="778" alt="Codigo" src="https://github.com/user-attachments/assets/4eee1db9-8b26-4c69-8dc5-e1a47e63403c" />
 
 
-
-![Dashboard de Logística](./assets/print-dashboard.png)
-
 ---
 
 ## 📂 Estrutura do Repositório
